@@ -42,5 +42,5 @@ I’m a physical therapist with a passion for **data science, machine learning, 
 ---
 
 ## **Contact**
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/elizabethmonsen21/)
+- **Email**: lizmonsen21@gmail.com
